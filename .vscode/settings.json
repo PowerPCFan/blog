@@ -26,5 +26,24 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
-  }
+  },
+  "terminal.integrated.scrollback": 10000
+
+  // uncomment for the ability to ctrl+f 99% of the codebase
+  // "search.useIgnoreFiles": false,
+  // "files.exclude": {
+  //   "**/.git": false,
+  //   "**/.svn": false,
+  //   "**/.hg": false,
+  //   "**/.DS_Store": false,
+  //   "**/Thumbs.db": false,
+  //   "**/CVS": false,
+  //   "**/.ruby-lsp": false
+  // },
+  // "search.exclude": {
+  //   "**/node_modules": false,
+  //   "**/bower_components": false,
+  //   "**/*.code-search": false,
+  //   "**/.ruby-lsp": false
+  // }
 }
