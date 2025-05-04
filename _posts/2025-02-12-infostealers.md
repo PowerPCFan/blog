@@ -16,7 +16,7 @@ Old viruses:
 -   Computer “going mad” and doing things on its own  
 
 Here's an example of what that might look like:
-![Image](/assets/img/2025-02-12-infostealers-the-modern-scary-and-increasingly-common-malware-infection/old-virus.jpg){: width="720" }
+![Image](/assets/img/2025-02-12-infostealers/old-virus.jpg){: width="720" }
 _Image of the infamous WannaCry ransomware (2017)._
 
 New viruses:
@@ -26,7 +26,7 @@ New viruses:
 -   Sometimes they can even “self-destruct” — the virus will make its way to your computer, collect personal information, send it to the hacker, and then the program will delete itself before you realize anything happened.  
 
 Here's an example of what *that* might look like:
-![Image](/assets/img/2025-02-12-infostealers-the-modern-scary-and-increasingly-common-malware-infection/new-virus.png){: width="720" }
+![Image](/assets/img/2025-02-12-infostealers/new-virus.png){: width="720" }
 _This is the desktop of a PC infected with an infostealer. Notice that it just looks like a normal Windows 11 desktop._
 
 Note that not all modern malware is like that (there is still “classic malware”) but silent and deadly viruses are becoming increasingly common!
@@ -69,7 +69,7 @@ Protecting yourself from infostealers can be tough but with the right security, 
 > I recommend using Microsoft Authenticator or Google Authenticator.
 {: .prompt-tip}
 
-![Image](/assets/img/2025-02-12-infostealers-the-modern-scary-and-increasingly-common-malware-infection/google-authenticator.png){: width="240" }
+![Image](/assets/img/2025-02-12-infostealers/google-authenticator.png){: width="240" }
 _Image of the "Google Authenticator" app (with some information redacted)_
 
 -   Keep your software updated: Regularly update your operating system, web browser, and other software to patch security vulnerabilities that infostealers can exploit. Updates can be annoying, but you should always do them for the sake of your security.
