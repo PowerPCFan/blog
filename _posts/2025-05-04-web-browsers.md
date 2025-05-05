@@ -1,5 +1,5 @@
 ---
-title: Web Browsers: The best browsers to use in 2025
+title: "Web Browsers: The best browsers to use in 2025"
 date: 2025-05-04 12:40:00 -0400 # May 4, 2025 | 12:40 PM | UTC-4 (EDT)
 categories: [Software, Web Browsers]
 tags: [Chrome, Firefox, Brave, Safari, Browser Comparison, Privacy, Productivity, Vivaldi, Edge, Best of 2025]
@@ -112,16 +112,33 @@ Below are browser benchmarks[^1] for the browsers. Unfortunately, there aren't a
 **Overall Browser Performance**
 
 Speedometer 2 Winners: **Google Chrome, Microsoft Edge**  
-JetStream 2 Winners: **Microsoft Edge, Google Chrome**  
+JetStream 2 Winners: **Google Chrome, Microsoft Edge**  
 MotionMark Winners: **Google Chrome, Microsoft Edge**  
 
-So as you can see from the results, Chrome and Edge are some incredibly fast and capable browsers.
+So as you can see from the results, Chrome and Edge are some incredibly fast and capable browsers - they won all three tests!
 
 # The Final Verdict
 So now, the part you've been waiting for: What browser should I actually go with?
 
 ### Best Browsers for Speed
-**Google Chrome** and **Microsoft Edge** are undeniably the fastest browsers. 
+**Google Chrome** and **Microsoft Edge** are undeniably the fastest browsers. If you're looking for pure speed and a good experience, go with these.
+
+### Best Browsers for Efficiency
+**Microsoft Edge** is one of the most efficient browsers out there (on Windows), consuming minimal amounts of RAM and energy while still being one of the fastest options.
+
+### Best Browsers for Privacy
+If you need good online privacy, **Brave** and **Firefox** are the best choices.
+
+### Best Browser for Customization and Features
+**Vivaldi** is the best browser for customization and features - it basically has endless settings to customize, and it has tons of built-in features, widgets, and apps!
+
+### Best Browser for Mac
+With its OS integration and optimized code designed for Mac, **Safari** is the best browser to use on macOS.
+
+### What's the deal with Opera?
+Opera has been criticized as being spyware or untrustworthy due to the fact that it was purchased by Chinese companies including Kunlun Tech and Qihoo 360 in 2016. In 2022, Opera cut ties with Qihoo 360, but Opera is still majority-owned by Kunlun Tech. 
+
+I did not include Opera in my recommendations because of this criticism, but in terms of the product itself, it's a pretty good browser and tends to be pretty lightweight and fast like Edge if you have lower-end hardware that struggles to run browsers like Chrome, Brave, Firefox, or Vivaldi. And just like Vivaldi, Opera has some cool productivity and organization features which can be useful, such as Tab Islands, Split Screen, or Workspaces.
 
 ### My Overall Favorites
 Personally, I use a combination of Microsoft Edge and Mozilla Firefox. Firefox is great for privacy and I like that it's open-source, and Edge is very fast and has great compatibility making it a great "daily driver" browser.
