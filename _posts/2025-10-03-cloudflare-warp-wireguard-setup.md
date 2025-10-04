@@ -27,11 +27,9 @@ However, if you're just a regular user who wants a simple VPN solution, the offi
 
 ### Project Setup (Windows)
 1. Open up the [Latest Releases](https://github.com/PowerPCFan/simple-wgcf/releases/latest) page in your browser.
-2. If you are on Windows, download the `simple-wgcf.exe` file. If you are on Linux, download the `simple-wgcf` file.
-3. Make sure that this file is in your home directory to make things easier. This is `C:\Users\YOUR-USERNAME` on Windows and `/home/YOUR-USERNAME` (or `~`) on Linux. (If you have more technical knowledge, you can put it anywhere and adjust the commands below accordingly.)
-4. Open up PowerShell (on Windows) or your terminal (on Linux).
-5. Navigate to your home directory by running `cd ~` (or whatever directory you downloaded the file to).
-6. LINUX USERS: Run `chmod +x simple-wgcf` to make the file executable.
+2. Download the `simple-wgcf.exe` file.
+3. Make sure that this file is in your home directory to make things easier. Your home directory is `C:\Users\YOUR-USERNAME`. (If you have more technical knowledge, you can put it anywhere and adjust the commands below accordingly.)
+4. Open up PowerShell and navigate to your home directory by running `cd ~` (replace `~` with the path you downloaded the file to if you didn't choose your home directory).
 
 ### Project Setup (Linux)
 Since you're using Linux, I'm assuming you probably have some technical knowledge.
