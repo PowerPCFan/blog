@@ -49,7 +49,7 @@ Since you're using Linux, I'm assuming you probably have some technical knowledg
 ### Setting up the generated profile in WireGuard (Windows)
 1. Download the [WireGuard client for Windows](https://www.wireguard.com/install/) ([direct download link](https://download.wireguard.com/windows-client/wireguard-installer.exe)) and install it.
 2. Open the WireGuard client, and go to the "Tunnels" tab.
-3. In the bottom left corner, click on the dropdown menu next to "Add Tunnel" and select "Import tunnel(s) from file". (Alternatively, you can just press <kbd>Ctrl</kbd>+<kbd>0</kbd>.)
+3. In the bottom left corner, click on the dropdown menu next to "Add Tunnel" and select "Import tunnel(s) from file". (Alternatively, you can just press <kbd>Ctrl</kbd>+<kbd>O</kbd>.)
 4. In the file selection window, paste in the path you copied in step 3. Paste it into the "File name" field at the bottom of the window, not the 'path bar' at the top. Press <kbd>Enter</kbd> or the "Open" button to import the profile.
 5. You're done! Click the "Activate" button to connect to Cloudflare WARP.
 
